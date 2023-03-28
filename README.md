@@ -1,1 +1,1 @@
-![alt text](https://perona.ru/images/GIT/JS.jpg) 
+![alt text](https://perona.ru/images/GIT/JMeter.jpg) 
